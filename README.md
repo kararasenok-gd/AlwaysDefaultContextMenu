@@ -15,7 +15,7 @@ A browser extension and userscript that blocks websites from disabling the defau
 
 #### For Chrome, Edge, or other Chromium-based browsers:
 
-1. Clone or download this repository.
+1. Clone or download this repository or [ext](https://github.com/kararasenok-gd/AlwaysDefaultContextMenu/tree/main/ext) folder.
 2. Open your browser and go to the **Extensions** page:
    - In Chrome: `chrome://extensions/`
    - In Edge: `edge://extensions/`
@@ -25,7 +25,7 @@ A browser extension and userscript that blocks websites from disabling the defau
 
 #### For Firefox:
 
-1. Clone or download this repository.
+1. Clone or download this repository or [ext](https://github.com/kararasenok-gd/AlwaysDefaultContextMenu/tree/main/ext) folder.
 2. Open Firefox and go to the **Add-ons Manager** page: `about:addons`
 3. In the left sidebar, click **Extensions**, then click the gear icon in the top-right corner and select **Debug Add-ons**.
 4. Click **Load Temporary Add-on** and select any file inside the folder (e.g., `manifest.json`).
