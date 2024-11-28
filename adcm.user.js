@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AlwaysDefaultContextMenu
-// @namespace    kararasenok-gd
+// @author    kararasenok-gd
 // @version      0.1
 // @description  Blocks disabling of context menu and text selection on websites.
 // @match        *://*/*
