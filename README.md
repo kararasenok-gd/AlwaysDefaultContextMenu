@@ -59,4 +59,4 @@ If you prefer using userscripts, you can install this as a userscript using Tamp
 ---
 
 ## ⚠️ And yes ⚠️
-i don't test FireFox
+i didn't test this all on FireFox
